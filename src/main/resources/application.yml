@@ -7,7 +7,6 @@ spring:
   datasource:
     driver-class-name: org.postgresql.Driver
     url: postgres://arluvnxszdmxpz:0ef96505abebcd9e2a6ba07e5ca6a396c4066cfe14079b460c10809e80dae022@ec2-107-20-153-39.compute-1.amazonaws.com:5432/dc0ccc88g5ab87
-s
     username: arluvnxszdmxpz
     password: 0ef96505abebcd9e2a6ba07e5ca6a396c4066cfe14079b460c10809e80dae022
   jpa:
@@ -18,5 +17,5 @@ s
       ddl-alto: none
 
 application:
-  description: Projeto criado para o bootcamp DIO - Santander
+  description: Projeto criado para o bootcamp DIO - Santander / Backend
 
